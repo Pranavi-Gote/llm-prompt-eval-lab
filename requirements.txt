@@ -1,0 +1,8 @@
+notebook
+openai
+pandas
+tiktoken
+rouge_score
+nltk
+python-dotenv
+matplotlib
